@@ -9,7 +9,7 @@ I mostly work with Python, Java, Artificial Intelligence, Machine/ Deep Learning
 ### 📫 How to reach me? 
   ⦿ Visit my [Website](https://www.ougot.com) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/akshaybankapure/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/akshayab) 🐦 <br>
+  ⦿ Follow me on [Twitter](https://twitter.com/iamakshayab) 🕊️ <br>
   ⦿ Shoot Me an [Email](mailto:1994akshayb@gmail.com) 💌 <br>
 <!--
 **akshaybankapure/akshaybankapure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
