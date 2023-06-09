@@ -6,6 +6,11 @@ I am [Akshay](https://www.caan.co.in/), a passionate and creative developer from
 
 I mostly work with Python, Java, Artificial Intelligence, Machine/ Deep Learning, TensorFlow, Git and other technologies.☁️🚀
 
+- 🔭 I’m currently working on My own practice Project in Python.
+- 🌱 I’m currently learning on improving my skills and knowledge about different libraries in python and nodejs.
+- 👯 I’m looking to collaborate on Any opensource or any interesting projects.
+- ⚡ Fun fact: French fries were not orginated in France!!
+
 ### 📫 How to reach me? 
   ⦿ Visit my [Website](https://www.ougot.com) 🌐 <br>
   ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/akshaybankapure/) 👨🏻‍💻 <br>
