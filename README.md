@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-**akshaybankapure/akshaybankapure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am [Akshay](https://www.caan.co.in/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯
 
