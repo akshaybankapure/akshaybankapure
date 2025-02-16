@@ -3,7 +3,7 @@
 
 I am [Akshay](https://www.caan.co.in/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯
 
-I mostly work with Python, Java, Artificial Intelligence, Machine/ Deep Learning, TensorFlow, Git and other technologies.☁️🚀
+I mostly work with Python, JS/TS backend, Artificial Intelligence, Machine learning/ Deep Learning (OpenCV, llms, slms, agenets, GenAI, OCR, NLP, TensorFlow, keras etc), Git and other backend or frontend technologies.☁️🚀
 
 - 🔭 I’m currently working on My own practice Project in Python.
 - 🌱 I’m currently learning on improving my skills and knowledge about different libraries in python and nodejs.
