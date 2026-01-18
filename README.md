@@ -40,8 +40,9 @@ I work at the intersection of **AI/ML, backend engineering, and system design** 
 ## 📊 GitHub Stats
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaybankapure&show_icons=true&theme=dark&hide_border=true&cache_seconds=21600&v=1)
 
+<!--
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshaybankapure&layout=compact&theme=dark&hide_border=true&cache_seconds=21600&v=1)
-
+-->
 
 ## 🚀 What I Do
 - **AI Integration Engineering** — LLM/agent pipelines, tool calling, workflow orchestration, guardrails & evals  
