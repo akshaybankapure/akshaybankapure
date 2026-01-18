@@ -1,31 +1,110 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Akshay+Bankapure;AI+Integration+Engineer;LLMs+%7C+Agents+%7C+RAG;Voice+AI+%7C+Backend+Systems;Shipping+over+talking&center=true&width=600&height=45">
+</p>
 
+---
 
-I am [Akshay](https://www.caan.co.in/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯
+### 👋 Hi, I’m Akshay Bankapure
 
-I mostly work with Python, JS/TS backend, Artificial Intelligence, Machine learning/ Deep Learning (OpenCV, llms, slms, agenets, GenAI, OCR, NLP, TensorFlow, keras etc), Git and other backend or frontend technologies.☁️🚀
+I’m a **Full-Stack + AI Integration Engineer** from **India 🇮🇳**, building **production-grade AI systems**, real-time applications, and scalable backend platforms.
 
-- 🔭 I’m currently working on My own practice Project in Python.
-- 🌱 I’m currently learning on improving my skills and knowledge about different libraries in python and nodejs.
-- 👯 I’m looking to collaborate on Any opensource or any interesting projects.
-- ⚡ Fun fact: French fries were not orginated in France!!
+I work at the intersection of **AI/ML, backend engineering, and system design** — turning messy real-world problems into reliable, observable, and cost-aware systems.
 
-### 📫 How to reach me? 
-  ⦿ Visit my [Website](https://www.ougot.com) 🌐 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/akshaybankapure/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/iamakshayab) 🕊️ <br>
-  ⦿ Shoot Me an [Email](mailto:1994akshayb@gmail.com) 💌 <br>
+---
+
+### 🖥️ `$ whoami`
+```bash
+> Akshay Bankapure
+> AI Integration Engineer
+> Focus: Agents, RAG, Voice AI, Backend Systems
+> Status: shipping
+```
+---
+
+### 📊 Live GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshaybankapure&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshaybankapure&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🚀 What I Do
+- **AI Integration Engineering** — LLM/agent pipelines, tool calling, workflow orchestration, guardrails & evals  
+- **Voice & Real-Time Systems** — streaming audio, voice/call bots, session control, latency tuning  
+- **RAG & Retrieval Systems** — embeddings, vector DBs, reranking, grounding, hallucination reduction  
+- **Document Intelligence** — OCR, PDF/image parsing, structured data extraction  
+- **Backend Systems** — APIs, async workers, queues, caching, DB design, observability  
+- **3D / Web Visualization** — Three.js pipelines (2D → 3D), GLTF workflows, performance optimization  
+
+---
+
+## 🧩 How I Think About Systems
+- Deterministic logic first, ML where uncertainty exists  
+- AI is a **component**, not the product  
+- Observability before scale  
+- Guardrails > prompts > models  
+- Latency, cost, and failure modes matter more than demos  
+
+---
+
+## 🧠 Tech I Ship With
+
+### Languages
+- **Python**, **TypeScript / JavaScript**, **SQL**, some **Go**
+
+### AI / ML
+- LLMs (agents, tool/function calling, schema-driven outputs)
+- **RAG** (chunking strategies, embeddings, vector DBs, rerankers)
+- **Computer Vision** (OpenCV, detection, segmentation)
+- OCR, NLP, information extraction
+- TensorFlow / Keras (practical DL workflows)
+
+### Backend / Cloud / DevOps
+- Node.js, Express / Fastify, Flask / FastAPI
+- AWS, Docker, Linux
+- Queues, background workers, Redis caching
+- Logging, monitoring, CI/CD (GitHub Actions)
+
+### Web / 3D
+- React + Vite (when needed), vanilla JS
+- Three.js / WebGL, GLTF, lighting, materials, LOD optimization
+
+---
+
+## 🧠 Current Mental Stack
+- Designing agent + tool orchestration patterns  
+- Voice AI latency tuning & session control  
+- RAG evals, reranking & feedback loops  
+- Scaling async backends under burst traffic  
+- Turning unstructured inputs into structured systems  
+
+---
+
+### 🎯 `$ ./run.sh`
+```bash
+Initializing systems...
+Loading models...
+Warming caches...
+System ready 🚀
+```
+
 <!--
-**akshaybankapure/akshaybankapure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+If you're reading this, you probably care about engineering.
+Ping me. We'll get along.
 -->
+
+---
+
+## 📫 Reach Me
+- 🌐 Website: https://akshay.bankapure.in/
+- 💼 LinkedIn: https://www.linkedin.com/in/akshaybankapure/
+- 🕊️ Twitter/X: https://twitter.com/iamakshayab
+- ✉️ Email: mailto:1994akshayb@gmail.com
+
+---
+
+⚡ Fun fact: French fries were *probably* not invented in France.
